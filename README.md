@@ -1,3 +1,15 @@
+## Implementations
+
+### 1. Basic RAG Pipeline
+- Manual retrieval + prompt construction
+- File: `rag_faiss_ollama.py`
+
+### 2. LCEL-based RAG Chain (Advanced)
+- Uses LangChain Expression Language
+- Modular and composable pipeline
+- File: `rag_chain_lcel.py`
+
+
 # Local RAG Knowledge Assistant
 
 This project implements a simple Retrieval-Augmented Generation (RAG) pipeline using local LLMs.
