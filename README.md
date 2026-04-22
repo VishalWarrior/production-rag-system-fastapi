@@ -15,3 +15,21 @@
 - Context compression
 - Improved answer relevance
 - File: `advanced_rag_pipeline.py`
+## API Layer
+
+This project exposes the RAG pipeline via FastAPI.
+
+### Endpoints
+
+- GET `/`
+  - Health check
+
+- POST `/chat`
+  - Input: question
+  - Output: answer generated using RAG pipeline
+
+### Example Request
+```json
+{
+  "question": "What is the document about?"
+}
