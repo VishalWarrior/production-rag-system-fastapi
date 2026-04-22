@@ -1,0 +1,10 @@
+Artificial Intelligence (AI) is a branch of computer science focused on building systems that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed. It is widely used in recommendation systems, fraud detection, and predictive analytics.
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers. It is particularly effective in image recognition, speech recognition, and natural language processing tasks.
+In healthcare, AI is used for disease diagnosis, drug discovery, and personalized treatment. Machine learning models can analyze medical data to detect patterns and predict diseases.
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language. It is used in chatbots, translation systems, and sentiment analysis.
+Computer Vision is another field of AI that enables machines to interpret and understand visual information. It is used in facial recognition, self-driving cars, and medical image analysis.
+AI is also widely used in finance for fraud detection, algorithmic trading, and risk management. Machine learning models analyze transaction patterns to detect anomalies.
+Reinforcement Learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties. It is used in robotics, gaming, and autonomous systems.
+Generative AI is a modern advancement in AI that can create content such as text, images, and code. Large Language Models (LLMs) like GPT are examples of generative AI.
+Ethical concerns in AI include bias, fairness, transparency, and privacy. It is important to ensure that AI systems are used responsibly and do not harm society.
