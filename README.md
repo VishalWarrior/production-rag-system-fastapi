@@ -27,6 +27,24 @@ This project exposes the RAG pipeline via FastAPI.
 - POST `/chat`
   - Input: question
   - Output: answer generated using RAG pipeline
+ 
+  - ## API Testing
+
+### Swagger UI
+FastAPI provides built-in interactive API documentation:
+
+- Swagger UI: http://127.0.0.1:8000/docs
+- ReDoc: http://127.0.0.1:8000/redoc
+
+You can test endpoints directly from the browser.
+
+---
+
+### Example API Requests
+
+#### Health Check
+```bash
+curl -X GET http://127.0.0.1:8000/
 
 ### Example Request
 ```json
